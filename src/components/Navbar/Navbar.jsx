@@ -9,7 +9,8 @@ import {
   FaGraduationCap,
   FaStar
 } from 'react-icons/fa'
-import logo from '../../assets/logo_rse.png'
+// import logo from '../../assets/logo_rse.png'
+const logo = '/logo_rse.png'
 import './Navbar.css'
 
 const Navbar = () => {
